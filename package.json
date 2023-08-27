@@ -1,0 +1,16 @@
+{
+  "name": "node.js-hw01-new",
+  "version": "1.0.0",
+  "description": "https://monosnap.com/file/RPh4ALRqPWq07Tq18v16tKS3Hot50a\r https://monosnap.com/file/PV2vlJeizNe7pvDOxPSa89nndXd97W",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.0.0"
+  }
+}
